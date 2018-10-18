@@ -1,0 +1,8 @@
+
+
+.\dotnet-publish
+.\docker-build
+
+docker-compose run start-dependencies
+
+docker-compose up
